@@ -3,7 +3,7 @@ import './signup.css'
 import { useNavigate } from 'react-router-dom'
 
 function Signup() {
-    const navigate=useNavigate();
+    const navigate = useNavigate();
 
     return (
         <div>
@@ -41,7 +41,7 @@ function Signup() {
                         </label>
 
                     </section>
-                    <button type='submit'onClick={()=>navigate("/home")} >Create Account</button>
+                    <button type='submit' onClick={() => navigate("/home")} >Create Account</button>
 
                 </form>
             </div>

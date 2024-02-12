@@ -1,5 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 
-  @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 .body {
     top: 0px;
     left: 35%;
@@ -14,7 +14,7 @@
 }
 
 h1 {
-    top:390px;
+    top: 390px;
     left: 20px;
     width: 300px;
     height: 33px;
@@ -65,7 +65,7 @@ p {
     height: 46px;
     /* UI Properties */
     background: #6C25FF4B 0% 0% no-repeat padding-box;
- 
+
     opacity: 1;
     border-radius: 6px;
     border: none;
@@ -74,7 +74,5 @@ p {
     color: #1D2226;
     font: normal normal medium 16px/17px Rubik;
     letter-spacing: 0px;
-   
-}
-    
 
+}
