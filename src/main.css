@@ -1,0 +1,80 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+.body {
+    top: 0px;
+    left: 35%;
+    width: 375px;
+    height: 685px;
+    background: #F7F8F9 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1 {
+    top:390px;
+    left: 20px;
+    width: 300px;
+    height: 33px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 28px/17px Rubik;
+    letter-spacing: 0px;
+    color: #1D2226;
+    opacity: 1;
+    position: absolute;
+}
+
+p {
+    top: 445px;
+    left: 20px;
+    width: 232px;
+    height: 48px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 18px/26px Rubik;
+    letter-spacing: 0px;
+    color: #1D2226;
+    opacity: 0.6;
+    position: absolute;
+}
+
+.register {
+    top: 545px;
+    left: 20px;
+    width: 335px;
+    height: 46px;
+    background: #6C25FF 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    border: none;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    font: normal normal medium Rubik;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+.login {
+    top: 600px;
+    left: 20px;
+    width: 335px;
+    height: 46px;
+    /* UI Properties */
+    background: #6C25FF4B 0% 0% no-repeat padding-box;
+ 
+    opacity: 1;
+    border-radius: 6px;
+    border: none;
+    position: absolute;
+    text-align: center;
+    color: #1D2226;
+    font: normal normal medium 16px/17px Rubik;
+    letter-spacing: 0px;
+   
+}
+    
+

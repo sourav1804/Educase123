@@ -1,0 +1,20 @@
+.login-paragraph{
+    position: absolute;
+    top: 80px;
+   
+    text-align: left;
+}
+.login-form{
+    position: absolute;
+    top: 150px;
+}
+.loginbtn{
+    top: 5px;
+    left: 3px;
+    width: 335px;
+    height: 46px;
+    /* UI Properties */
+    background: #CBCBCB 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;  
+}
