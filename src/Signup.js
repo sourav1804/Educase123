@@ -27,7 +27,7 @@ function Signup() {
                         <label>Password</label>
                     </div>
                     <div className='input-group'>
-                        <input type='email' required />
+                        <input type='text' required />
                         <label>Company name</label>
                     </div>
                     <section>
