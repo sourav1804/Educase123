@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2705db0c.css",
+    "main.js": "/static/js/main.3a1d0bc2.js",
+    "static/js/592.4d0a3c7c.chunk.js": "/static/js/592.4d0a3c7c.chunk.js",
+    "static/media/Ellipse 114.png": "/static/media/Ellipse 114.88d10524cbd3359fb0a5.png",
+    "index.html": "/index.html",
+    "main.2705db0c.css.map": "/static/css/main.2705db0c.css.map",
+    "main.3a1d0bc2.js.map": "/static/js/main.3a1d0bc2.js.map",
+    "592.4d0a3c7c.chunk.js.map": "/static/js/592.4d0a3c7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2705db0c.css",
+    "static/js/main.3a1d0bc2.js"
+  ]
+}
